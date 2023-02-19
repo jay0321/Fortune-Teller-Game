@@ -1,7 +1,7 @@
 /**************************************************/
-/*					  YOUR				          */
-/*					  NEW						  */
-/*                   FORTUNE					  */
+/*					         YOUR				                  */
+/*					          NEW		                      */
+/*                   FORTUNE			           		  */
 /**************************************************/
 /*                   ABOUT:                       */
 /* This is a simple game coded predominantly in   */
